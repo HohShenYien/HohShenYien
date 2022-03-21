@@ -1,16 +1,16 @@
-### Hi there 👋
+<div>
 
-<!--
-**HohShenYien/HohShenYien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <a href="https://shenyien.cyou/" target="_blank">Shen Yien</a> <img
+src="https://github.com/HohShenYien/HohShenYien/raw/main/res/Hi.gif" height="32" /></h1>
 
-Here are some ideas to get you started:
+<div align="center">
+    <table style="border-spacing: 50px 5px;">
+        <tr>
+            <td>STUDENT</td>
+            <td>DEVELOPER</td>
+            <td>BLOGGER</td>
+        </tr>
+    </table>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
