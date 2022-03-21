@@ -63,5 +63,6 @@ I am Shen Yien, currently studying Computer Science (Data Analytics) in Asia Pac
 
 <hr/>
 
-[![Shen Yien's GitHub stats](https://github-readme-stats.vercel.app/api?username=HohShenYien&show_icons=true&theme=aura)](https://github.com/HohShenYien)&nbsp;&nbsp;&nbsp;
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HohShenYien?cardType=level&theme=ocean-dark)](https://git.io/awesome-stats-card)
+
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HohShenYien&show_icons=true&theme=aura&layout=compact)](https://github.com/HohShenYien)
