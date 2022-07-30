@@ -19,8 +19,8 @@ I am Shen Yien, currently studying Computer Science (Data Analytics) in Asia Pac
 </div>
     
 ## ✏️ Recent Blog    
-- 13 Apr 2022 - <a href="https://shenyien.cyou/blog/laravel-append-silent-killer-of-performance" target="_blank">Laravel's Append, Silent Killer of Performance</a>
-- 13 Apr 2022 - <a href="https://shenyien.cyou/blog/styled-component-vs-tailwind" target="_blank">Junior POV: Component Library vs Tailwind</a>    
+- 30 July 2022 - <a href="https://shenyien.cyou/blog/laravel-append-silent-killer-of-performance" target="_blank">Laravel's Append, Silent Killer of Performance</a>
+- 21 July 2022 - <a href="https://shenyien.cyou/blog/styled-component-vs-tailwind" target="_blank">Junior POV: Component Library vs Tailwind</a>    
 - 11 June 2022 - <a href="https://shenyien.cyou/blog/a-nerds-life" target="_blank">A Nerd's Life</a>
 - 13 Apr 2022 - <a href="https://shenyien.cyou/blog/new-direction" target="_blank">New Direction: Web Development</a>    
 - 04 Mar 2022 - <a href="https://shenyien.cyou/blog/my-favorite-poem" target="_blank">My Favourite Poem</a>
