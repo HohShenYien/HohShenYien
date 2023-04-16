@@ -23,11 +23,11 @@
 - 💻 Been coding for 4 years
 - 🍵 Not your typical guy who enjoys coffee, I prefer tea
 - 🎧 I'm probably coding, reading, writing, driving, or studying if I'm on Spotify
-    
-    
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Github profile" align="right"></a>
 
 ## ✏️ Recent Blog    
+
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Github profile" align="right" width="30%"></a>
+
 <!-- HASHNODE_BLOG:START -->
 <p>
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681462779232/7b54ceea-a340-4c74-b90b-13030e21040c.png" alt="A Layman's Guide to Leetcode" width="150px" align="left" /></a>
