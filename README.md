@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://myoctocat.com/" target="_blank">
-    <img align="left" alt="Octocat in my style" width="30%" src="./res/octo-shen.png" />
+    <img align="left" alt="Octocat in my style" width="35%" src="./res/octo-shen.png" />
 </a>
 
 <h1>
