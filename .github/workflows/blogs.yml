@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: 'ShenYien'
           BLOG_URL: 'https://blogs.shenyien.cyou'
-          COUNT: 5
+          COUNT: 4
           FILE: "README.md"
           STYLE: "blog-left"
         env:
