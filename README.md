@@ -15,7 +15,7 @@
 - 🇲🇾 I'm a **Fullstack Developer** from Malaysia
 - 🤓 Enjoys learning different programming stuffs (Currently Golang)
 - 🏃‍♂️ Shifted from Laravel + Vue to Next.js recently
-- 📙 I'm reading a book monthly, check what I'm reading [here](https://shenyien.cyou/readings/)
+- 📙 I'm reading a book monthly, check out what I'm reading [here](https://shenyien.cyou/readings/)
 - ✍ I write technical articles and sometimes [random stuffs](https://blogs.shenyien.cyou/series/life-beyond-codes) on my [blog](https://blogs.shenyien.cyou)
 - 🧼 Big fan of Clean Codes, Test-Driven Development and Refactoring
 - 🙅‍♂️ Dislikes dynamic language for development (e.g., Python & Vanilla JavaScript)
