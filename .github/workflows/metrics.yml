@@ -27,6 +27,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: res/habits-metrics.svg
           config_timezone: Asia/Kuala Lumpur
+          template: classic
+          base: ""
           
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -40,6 +42,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: res/language-metrics.svg
+          template: classic
+          base: ""
           
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
