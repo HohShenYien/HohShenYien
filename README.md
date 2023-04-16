@@ -30,6 +30,29 @@
 
 ## ✏️ Recent Blog    
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681462779232/7b54ceea-a340-4c74-b90b-13030e21040c.png" alt="A Layman's Guide to Leetcode" width="250px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><strong>A Layman's Guide to Leetcode</strong></a>
+<div><strong>14 Apr 2023</strong> | <strong>Updated: 14 Apr 2023</strong></div>
+<br/> If you aren't a big fan of algorithms or competitive programming, you'd probably frown at the idea of grinding Leetcode questions. However, given their prevalence as part of the interview process, you might at one point want to prepare yourself for i... </p> <br/> <br/>
+<p align="left">
+<a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681319190262/2d6291b1-b361-4e76-aa64-65971171d58c.png" alt="Insta-Next: Deploying Next.js on Vercel / using Docker" width="250px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><strong>Insta-Next: Deploying Next.js on Vercel / using Docker</strong></a>
+<div><strong>12 Apr 2023</strong> | <strong>Updated: 12 Apr 2023</strong></div>
+<br/> In this part, you are finally going to learn about deploying the Next.js app we have built so far online! I will also show you how to set up a PostgreSQL database online and deploy our Prisma Schema there.
+There are many ways you can deploy it, and o... </p> <br/> <br/>
+<p align="left">
+<a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681232552050/a9789e11-709f-40fa-a907-6ef7b9233714.png" alt="Insta-Next: Likes and Followers" width="250px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><strong>Insta-Next: Likes and Followers</strong></a>
+<div><strong>11 Apr 2023</strong> | <strong>Updated: 12 Apr 2023</strong></div>
+<br/> In this part, you will get to build the post liking and user following logics which forms a crucial part of Instagram. In essence, they are just POST requests under the hood.
+However, do note that the implementation implemented here is a simplified v... </p> <br/> <br/>
+<p align="left">
+<a href="https://blogs.shenyien.cyou/insta-next-creating-posts-and-stories-with-post-requests" title="Insta-Next: Creating Posts and Stories with POST Requests"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680944779083/ac346696-e523-4fc6-a75d-9405a33a1822.png" alt="Insta-Next: Creating Posts and Stories with POST Requests" width="250px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/insta-next-creating-posts-and-stories-with-post-requests" title="Insta-Next: Creating Posts and Stories with POST Requests"><strong>Insta-Next: Creating Posts and Stories with POST Requests</strong></a>
+<div><strong>8 Apr 2023</strong> | <strong>Updated: 8 Apr 2023</strong></div>
+<br/> In this part, we will start to add posts and stories creation in our InstaNext. At the same time, we will use Zod to validate form inputs from the frontend and request bodies in the backend. Finally, we will build the missing registration form.
+As a ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ## 📱 Contact Me
