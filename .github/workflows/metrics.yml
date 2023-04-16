@@ -2,6 +2,7 @@ name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
 jobs:
   stats:
     runs-on: ubuntu-latest
