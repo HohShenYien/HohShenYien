@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://myoctocat.com/" target="_blank">
-    <img align="right" alt="Octocat in my style" width="30%" src="./res/octo-shen.png" />
+    <img align="left" alt="Octocat in my style" width="30%" src="./res/octo-shen.png" />
 </a>
 
 <h1>
@@ -24,20 +24,19 @@
 - 🍵 Not your typical guy who enjoys coffee, I prefer tea
 - 🎧 I'm probably coding, reading, writing, driving, or studying if I'm on Spotify
     
-<br>
     
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Github profile" align="left"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&redirect=true" target="_blank"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31fcch2r2cg3hxcfb4jacrpvd6m4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Github profile" align="right"></a>
 
 ## ✏️ Recent Blog    
 <!-- HASHNODE_BLOG:START -->
 <p>
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681462779232/7b54ceea-a340-4c74-b90b-13030e21040c.png" alt="A Layman's Guide to Leetcode" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><strong>A Layman's Guide to Leetcode</strong></a>
-<div><strong>14 Apr 2023</strong> | <strong>Updated: 14 Apr 2023</strong></div></p>
+<div><strong>14 Apr 2023</strong> | <strong>Updated: 14 Apr 2023</strong></div></p><br>
 <p>
 <a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681319190262/2d6291b1-b361-4e76-aa64-65971171d58c.png" alt="Insta-Next: Deploying Next.js on Vercel / using Docker" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><strong>Insta-Next: Deploying Next.js on Vercel / using Docker</strong></a>
-<div><strong>12 Apr 2023</strong> | <strong>Updated: 12 Apr 2023</strong></div></p>
+<a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><strong>Insta-Next: Deploying Next.js on Vercel / using Docker</strong></a><br>
+<strong>12 Apr 2023</strong> | <strong>Updated: 12 Apr 2023</strong><br></p>
 <p>
 <a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681232552050/a9789e11-709f-40fa-a907-6ef7b9233714.png" alt="Insta-Next: Likes and Followers" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><strong>Insta-Next: Likes and Followers</strong></a>
