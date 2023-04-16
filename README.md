@@ -45,6 +45,10 @@
 <a href="https://blogs.shenyien.cyou/insta-next-creating-posts-and-stories-with-post-requests" title="Insta-Next: Creating Posts and Stories with POST Requests"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680944779083/ac346696-e523-4fc6-a75d-9405a33a1822.png" alt="Insta-Next: Creating Posts and Stories with POST Requests" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/insta-next-creating-posts-and-stories-with-post-requests" title="Insta-Next: Creating Posts and Stories with POST Requests"><strong>Insta-Next: Creating Posts and Stories with POST Requests</strong></a>
 <br><strong>8 Apr 2023</strong> | <strong>Updated: 8 Apr 2023</strong></p><br>
+<p>
+<a href="https://blogs.shenyien.cyou/insta-next-authentication-with-nextauth" title="Insta-Next: Authentication with NextAuth"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680785340941/ad2bc3ad-0518-4c0e-a6ff-904456a996cc.png" alt="Insta-Next: Authentication with NextAuth" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/insta-next-authentication-with-nextauth" title="Insta-Next: Authentication with NextAuth"><strong>Insta-Next: Authentication with NextAuth</strong></a>
+<br><strong>6 Apr 2023</strong> | <strong>Updated: 6 Apr 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 ## 📱 Contact Me
