@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📥  blog-left"
-        uses: "HohShenYien/action-hashnode-blog@7411a7c34d65bbe8309660ea6acf550ca34509d4"
+        uses: "HohShenYien/action-hashnode-blog@1745d9cd48b47b207fca870c39a8c1957dcb3179"
         with:
           USERNAME: 'ShenYien'
           BLOG_URL: 'https://blogs.shenyien.cyou'
