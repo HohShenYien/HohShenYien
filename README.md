@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/breaking-into-the-software-industry-as-a-data-analysis-student" title="Breaking into the Software Industry as a Data Analysis Student"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682046114750/cefb7dea-c79f-457b-b39d-2c125dd3a1b7.png" alt="Breaking into the Software Industry as a Data Analysis Student" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/breaking-into-the-software-industry-as-a-data-analysis-student" title="Breaking into the Software Industry as a Data Analysis Student"><strong>Breaking into the Software Industry as a Data Analysis Student</strong></a>
+<br><strong>21 Apr 2023</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681462779232/7b54ceea-a340-4c74-b90b-13030e21040c.png" alt="A Layman's Guide to Leetcode" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><strong>A Layman's Guide to Leetcode</strong></a>
 <br><strong>14 Apr 2023</strong></p><br>
@@ -39,10 +43,6 @@
 <a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681232552050/a9789e11-709f-40fa-a907-6ef7b9233714.png" alt="Insta-Next: Likes and Followers" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><strong>Insta-Next: Likes and Followers</strong></a>
 <br><strong>11 Apr 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/insta-next-creating-posts-and-stories-with-post-requests" title="Insta-Next: Creating Posts and Stories with POST Requests"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680944779083/ac346696-e523-4fc6-a75d-9405a33a1822.png" alt="Insta-Next: Creating Posts and Stories with POST Requests" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/insta-next-creating-posts-and-stories-with-post-requests" title="Insta-Next: Creating Posts and Stories with POST Requests"><strong>Insta-Next: Creating Posts and Stories with POST Requests</strong></a>
-<br><strong>8 Apr 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
