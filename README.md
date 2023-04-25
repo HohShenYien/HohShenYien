@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682341619541/c77fa8d4-2fcc-4de5-88ca-aabc065954b5.png" alt="Insta-Next: Sweatless React State Management with Zustand" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><strong>Insta-Next: Sweatless React State Management with Zustand</strong></a>
+<br><strong>24 Apr 2023</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/breaking-into-the-software-industry-as-a-data-analysis-student" title="Breaking into the Software Industry as a Data Analysis Student"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682046114750/cefb7dea-c79f-457b-b39d-2c125dd3a1b7.png" alt="Breaking into the Software Industry as a Data Analysis Student" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/breaking-into-the-software-industry-as-a-data-analysis-student" title="Breaking into the Software Industry as a Data Analysis Student"><strong>Breaking into the Software Industry as a Data Analysis Student</strong></a>
 <br><strong>21 Apr 2023</strong></p><br>
@@ -39,10 +43,6 @@
 <a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681319190262/2d6291b1-b361-4e76-aa64-65971171d58c.png" alt="Insta-Next: Deploying Next.js on Vercel / using Docker" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><strong>Insta-Next: Deploying Next.js on Vercel / using Docker</strong></a>
 <br><strong>12 Apr 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681232552050/a9789e11-709f-40fa-a907-6ef7b9233714.png" alt="Insta-Next: Likes and Followers" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/insta-next-likes-and-followers" title="Insta-Next: Likes and Followers"><strong>Insta-Next: Likes and Followers</strong></a>
-<br><strong>11 Apr 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
