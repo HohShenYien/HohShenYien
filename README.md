@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components" title="The Next.js 13 App Directory and Server Components: What You Need to Know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683985920062/a98f53d6-0440-4f56-8f3d-68986ef937bb.jpeg" alt="The Next.js 13 App Directory and Server Components: What You Need to Know" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components" title="The Next.js 13 App Directory and Server Components: What You Need to Know"><strong>The Next.js 13 App Directory and Server Components: What You Need to Know</strong></a>
+<br><strong>13 May 2023</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682341619541/c77fa8d4-2fcc-4de5-88ca-aabc065954b5.png" alt="Insta-Next: Sweatless React State Management with Zustand" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><strong>Insta-Next: Sweatless React State Management with Zustand</strong></a>
 <br><strong>24 Apr 2023</strong></p><br>
@@ -39,10 +43,6 @@
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681462779232/7b54ceea-a340-4c74-b90b-13030e21040c.png" alt="A Layman's Guide to Leetcode" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/a-laymans-guide-to-leetcode" title="A Layman's Guide to Leetcode"><strong>A Layman's Guide to Leetcode</strong></a>
 <br><strong>14 Apr 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1681319190262/2d6291b1-b361-4e76-aa64-65971171d58c.png" alt="Insta-Next: Deploying Next.js on Vercel / using Docker" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/insta-next-deploying-nextjs-on-vercel-using-docker" title="Insta-Next: Deploying Next.js on Vercel / using Docker"><strong>Insta-Next: Deploying Next.js on Vercel / using Docker</strong></a>
-<br><strong>12 Apr 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
