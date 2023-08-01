@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/client-side-authentication-in-nextjs-using-cookies" title="Client-Side Authentication in Next.js using Cookies"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690811160175/f61a6c9e-7bc8-434d-a274-0ea4f896b9f8.jpeg" alt="Client-Side Authentication in Next.js using Cookies" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/client-side-authentication-in-nextjs-using-cookies" title="Client-Side Authentication in Next.js using Cookies"><strong>Client-Side Authentication in Next.js using Cookies</strong></a>
+<br><strong>31 July 2023</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/dotenv-vault-the-new-way-to-manage-env" title="Dotenv-vault: The New Way to Manage .env"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684857547238/e84eb477-6509-4c97-9ced-a38f840637dd.png" alt="Dotenv-vault: The New Way to Manage .env" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/dotenv-vault-the-new-way-to-manage-env" title="Dotenv-vault: The New Way to Manage .env"><strong>Dotenv-vault: The New Way to Manage .env</strong></a>
 <br><strong>23 May 2023</strong></p><br>
@@ -39,10 +43,6 @@
 <a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682341619541/c77fa8d4-2fcc-4de5-88ca-aabc065954b5.png" alt="Insta-Next: Sweatless React State Management with Zustand" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><strong>Insta-Next: Sweatless React State Management with Zustand</strong></a>
 <br><strong>24 Apr 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/breaking-into-the-software-industry-as-a-data-analysis-student" title="Breaking into the Software Industry as a Data Analysis Student"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682046114750/cefb7dea-c79f-457b-b39d-2c125dd3a1b7.png" alt="Breaking into the Software Industry as a Data Analysis Student" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/breaking-into-the-software-industry-as-a-data-analysis-student" title="Breaking into the Software Industry as a Data Analysis Student"><strong>Breaking into the Software Industry as a Data Analysis Student</strong></a>
-<br><strong>21 Apr 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
