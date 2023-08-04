@@ -89,13 +89,18 @@
 
 ## 🎲 Some Cool Stuffs
 
-<h3>My Leetcode Stats </h3>
-<img src="https://leetcard.jacoblin.cool/ShenYien?ext=heatmap" alt="Leetcode Stats">
-
 ### Here's a snake eating my commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HohShenYien/HohShenYien/output/github-contribution-grid-snake-dark.svg">
   <img alt="Github Snake Grid" src="https://raw.githubusercontent.com/HohShenYien/HohShenYien/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+
+<h3>My Leetcode Stats </h3>
+<div>
+    <img src="https://leetcard.jacoblin.cool/ShenYien?ext=heatmap" align="left" alt="Leetcode Stats" width="50%">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=ShenYien&theme=dark" width="40%" align="right" alt="LeetCode Badges"/>
+</div>
+
 
