@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692978612047/cdd68134-1312-4928-97be-e9ab0ff3d197.jpeg" alt="Using Mantine with Tailwind" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><strong>Using Mantine with Tailwind</strong></a>
+<br><strong>25 Aug 2023</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/client-side-authentication-in-nextjs-using-cookies" title="Client-Side Authentication in Next.js using Cookies"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690811160175/f61a6c9e-7bc8-434d-a274-0ea4f896b9f8.jpeg" alt="Client-Side Authentication in Next.js using Cookies" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/client-side-authentication-in-nextjs-using-cookies" title="Client-Side Authentication in Next.js using Cookies"><strong>Client-Side Authentication in Next.js using Cookies</strong></a>
 <br><strong>31 July 2023</strong></p><br>
@@ -39,10 +43,6 @@
 <a href="https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components" title="The Next.js 13 App Directory and Server Components: What You Need to Know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683985920062/a98f53d6-0440-4f56-8f3d-68986ef937bb.jpeg" alt="The Next.js 13 App Directory and Server Components: What You Need to Know" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components" title="The Next.js 13 App Directory and Server Components: What You Need to Know"><strong>The Next.js 13 App Directory and Server Components: What You Need to Know</strong></a>
 <br><strong>13 May 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682341619541/c77fa8d4-2fcc-4de5-88ca-aabc065954b5.png" alt="Insta-Next: Sweatless React State Management with Zustand" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/insta-next-sweatless-react-state-management-with-zustand" title="Insta-Next: Sweatless React State Management with Zustand"><strong>Insta-Next: Sweatless React State Management with Zustand</strong></a>
-<br><strong>24 Apr 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
