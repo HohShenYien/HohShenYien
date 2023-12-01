@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/a-personal-journey-through-computer-science-degree" title="A Personal Journey through Computer Science Degree"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701342076601/4f0d2188-e803-4c49-adce-8d184005318f.jpeg" alt="A Personal Journey through Computer Science Degree" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/a-personal-journey-through-computer-science-degree" title="A Personal Journey through Computer Science Degree"><strong>A Personal Journey through Computer Science Degree</strong></a>
+<br><strong>30 Nov 2023</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692978612047/cdd68134-1312-4928-97be-e9ab0ff3d197.jpeg" alt="Using Mantine with Tailwind" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><strong>Using Mantine with Tailwind</strong></a>
 <br><strong>25 Aug 2023</strong></p><br>
@@ -39,10 +43,6 @@
 <a href="https://blogs.shenyien.cyou/dotenv-vault-the-new-way-to-manage-env" title="Dotenv-vault: The New Way to Manage .env"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1684857547238/e84eb477-6509-4c97-9ced-a38f840637dd.png" alt="Dotenv-vault: The New Way to Manage .env" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/dotenv-vault-the-new-way-to-manage-env" title="Dotenv-vault: The New Way to Manage .env"><strong>Dotenv-vault: The New Way to Manage .env</strong></a>
 <br><strong>23 May 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components" title="The Next.js 13 App Directory and Server Components: What You Need to Know"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683985920062/a98f53d6-0440-4f56-8f3d-68986ef937bb.jpeg" alt="The Next.js 13 App Directory and Server Components: What You Need to Know" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/the-nextjs-13-app-directory-and-server-components" title="The Next.js 13 App Directory and Server Components: What You Need to Know"><strong>The Next.js 13 App Directory and Server Components: What You Need to Know</strong></a>
-<br><strong>13 May 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
