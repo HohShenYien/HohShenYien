@@ -17,9 +17,11 @@ jobs:
         uses: "HohShenYien/action-hashnode-blog@main"
         with:
           USERNAME: 'ShenYien'
-          BLOG_URL: 'https://shenyien.hashnode.dev'
+          BLOG_URL: 'https://blogs.shenyien.cyou'
           COUNT: 4
           FILE: "README.md"
           STYLE: "blog-left"
+          USE_CANONICAL_URL: "true"
+          USE_CUSTOM_BLOG_URL: "true"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
