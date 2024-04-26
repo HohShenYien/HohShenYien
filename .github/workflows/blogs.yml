@@ -17,7 +17,7 @@ jobs:
         uses: "HohShenYien/action-hashnode-blog@main"
         with:
           USERNAME: 'ShenYien'
-          BLOG_URL: 'https://blogs.shenyien.cyou'
+          BLOG_URL: 'https://shenyien.hashnode.dev'
           COUNT: 4
           FILE: "README.md"
           STYLE: "blog-left"
