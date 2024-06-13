@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/what-makes-up-microservice-architecture" title="What makes up Microservice Architecture?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718206101480/e297bd52-818d-4905-8db7-b3b711ab57e0.png" alt="What makes up Microservice Architecture?" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/what-makes-up-microservice-architecture" title="What makes up Microservice Architecture?"><strong>What makes up Microservice Architecture?</strong></a>
+<br><strong>12 June 2024</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/back-into-blogging" title="Back into Blogging"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1714057063226/a03452da-4ae9-405a-a36c-619d371a978f.png" alt="Back into Blogging" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/back-into-blogging" title="Back into Blogging"><strong>Back into Blogging</strong></a>
 <br><strong>25 Apr 2024</strong></p><br>
@@ -43,10 +47,6 @@
 <a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692978612047/cdd68134-1312-4928-97be-e9ab0ff3d197.jpeg" alt="Using Mantine with Tailwind" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><strong>Using Mantine with Tailwind</strong></a>
 <br><strong>25 Aug 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/client-side-authentication-in-nextjs-using-cookies" title="Client-Side Authentication in Next.js using Cookies"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1690811160175/f61a6c9e-7bc8-434d-a274-0ea4f896b9f8.jpeg" alt="Client-Side Authentication in Next.js using Cookies" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/client-side-authentication-in-nextjs-using-cookies" title="Client-Side Authentication in Next.js using Cookies"><strong>Client-Side Authentication in Next.js using Cookies</strong></a>
-<br><strong>31 July 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
