@@ -28,6 +28,10 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
+<a href="https://blogs.shenyien.cyou/understanding-spring-boot-annotations-bean-vs-component-vs" title="Understanding Spring Boot Annotations: @Bean vs @Component vs ..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720111641836/4d7589b5-1673-45e6-9487-618a5b1710aa.png" alt="Understanding Spring Boot Annotations: @Bean vs @Component vs ..." width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/understanding-spring-boot-annotations-bean-vs-component-vs" title="Understanding Spring Boot Annotations: @Bean vs @Component vs ..."><strong>Understanding Spring Boot Annotations: @Bean vs @Component vs ...</strong></a>
+<br><strong>5 July 2024</strong></p><br>
+<p>
 <a href="https://blogs.shenyien.cyou/what-makes-up-microservice-architecture" title="What makes up Microservice Architecture?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718206101480/e297bd52-818d-4905-8db7-b3b711ab57e0.png" alt="What makes up Microservice Architecture?" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/what-makes-up-microservice-architecture" title="What makes up Microservice Architecture?"><strong>What makes up Microservice Architecture?</strong></a>
 <br><strong>12 June 2024</strong></p><br>
@@ -43,10 +47,6 @@
 <a href="https://blogs.shenyien.cyou/a-personal-journey-through-computer-science-degree" title="A Personal Journey through Computer Science Degree"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701342076601/4f0d2188-e803-4c49-adce-8d184005318f.jpeg" alt="A Personal Journey through Computer Science Degree" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/a-personal-journey-through-computer-science-degree" title="A Personal Journey through Computer Science Degree"><strong>A Personal Journey through Computer Science Degree</strong></a>
 <br><strong>30 Nov 2023</strong></p><br>
-<p>
-<a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1692978612047/cdd68134-1312-4928-97be-e9ab0ff3d197.jpeg" alt="Using Mantine with Tailwind" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/using-mantine-with-tailwind" title="Using Mantine with Tailwind"><strong>Using Mantine with Tailwind</strong></a>
-<br><strong>25 Aug 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
