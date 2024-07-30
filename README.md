@@ -28,10 +28,6 @@
 
 <!-- HASHNODE_BLOG:START -->
 <p>
-<a href="https://blogs.shenyien.cyou/developing-microservices-locally-with-docker-compose" title="Developing Microservices Locally with Docker Compose"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1722180539636/80b17ab4-4e98-409e-a68e-923843a519c7.jpeg" alt="Developing Microservices Locally with Docker Compose" width="150px" align="left" /></a>
-<a href="https://blogs.shenyien.cyou/developing-microservices-locally-with-docker-compose" title="Developing Microservices Locally with Docker Compose"><strong>Developing Microservices Locally with Docker Compose</strong></a>
-<br><strong>28 July 2024</strong></p><br>
-<p>
 <a href="https://blogs.shenyien.cyou/understanding-spring-boot-annotations-bean-vs-component-vs" title="Understanding Spring Boot Annotations: @Bean vs @Component vs ..."><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720111641836/4d7589b5-1673-45e6-9487-618a5b1710aa.png" alt="Understanding Spring Boot Annotations: @Bean vs @Component vs ..." width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/understanding-spring-boot-annotations-bean-vs-component-vs" title="Understanding Spring Boot Annotations: @Bean vs @Component vs ..."><strong>Understanding Spring Boot Annotations: @Bean vs @Component vs ...</strong></a>
 <br><strong>5 July 2024</strong></p><br>
@@ -47,6 +43,10 @@
 <a href="https://blogs.shenyien.cyou/the-evil-behind-your-api-sluggishness-n1-select-queries" title="The Evil Behind Your API Sluggishness: N+1 Select Queries"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1703350698880/4bd3bf2c-4a64-40bf-bcbc-c99f473d5481.jpeg" alt="The Evil Behind Your API Sluggishness: N+1 Select Queries" width="150px" align="left" /></a>
 <a href="https://blogs.shenyien.cyou/the-evil-behind-your-api-sluggishness-n1-select-queries" title="The Evil Behind Your API Sluggishness: N+1 Select Queries"><strong>The Evil Behind Your API Sluggishness: N+1 Select Queries</strong></a>
 <br><strong>24 Dec 2023</strong></p><br>
+<p>
+<a href="https://blogs.shenyien.cyou/a-personal-journey-through-computer-science-degree" title="A Personal Journey through Computer Science Degree"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1701342076601/4f0d2188-e803-4c49-adce-8d184005318f.jpeg" alt="A Personal Journey through Computer Science Degree" width="150px" align="left" /></a>
+<a href="https://blogs.shenyien.cyou/a-personal-journey-through-computer-science-degree" title="A Personal Journey through Computer Science Degree"><strong>A Personal Journey through Computer Science Degree</strong></a>
+<br><strong>30 Nov 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
